@@ -1,5 +1,6 @@
-//Counter Program
+//Counting Program
 
+//access the increase button
 let inbtn = document.getElementById("increase");
 let h1 = document.getElementById("myh1");
 
