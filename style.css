@@ -1,0 +1,22 @@
+#myh1{
+    font-size: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn{
+    background-color:rgba(45, 169, 241, 0.644);
+    color: white;
+    border-style: none;
+    border-radius: 8px;
+    font-size: 2rem;
+}
