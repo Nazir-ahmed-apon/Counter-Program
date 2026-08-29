@@ -1,7 +1,5 @@
-// const date = new Date();
-// console.log(date);
+//Counter Program
 
-//access the increase button
 let inbtn = document.getElementById("increase");
 let h1 = document.getElementById("myh1");
 
